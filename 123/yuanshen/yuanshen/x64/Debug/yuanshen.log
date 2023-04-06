@@ -1,0 +1,7 @@
+﻿  global.cpp
+  main.cpp
+C:\Users\yutaixiang\Desktop\github\text\123\yuanshen\yuanshen\main.cpp(4,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+C:\Users\yutaixiang\Desktop\github\text\123\yuanshen\yuanshen\global.cpp(70): warning C4715: “wssr”: 不是所有的控件路径都返回值
+C:\Users\yutaixiang\Desktop\github\text\123\yuanshen\yuanshen\global.cpp(82): warning C4715: “wsr”: 不是所有的控件路径都返回值
+  yuanshen.vcxproj -> C:\Users\yutaixiang\Desktop\github\text\123\yuanshen\x64\Debug\yuanshen.exe
